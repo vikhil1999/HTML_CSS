@@ -1,0 +1,13 @@
+.banner{
+    width: 960px;
+    height: 275px;
+    text-align: center;
+    border: 1px;
+}
+.Under{
+    text-decoration:none;
+    text-align:center;
+}
+.container{
+    text-align: center;
+}
